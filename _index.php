@@ -17,11 +17,9 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
 		
 		<title>Need-A-Book</title>
-		<script src="js/jquery.anchor.js" type="text/javascript"></script>
-		<script src="js/jquery.fancybox-1.2.6.pack.js" type="text/javascript"></script>
 		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 		<script type="text/javascript">
-			google.load('jquery', '1.5');
+			google.load('jquery', '1');
 			google.load("jqueryui", "1.8.9");
 		</script>
 	</head>
